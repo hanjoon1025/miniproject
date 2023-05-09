@@ -4,6 +4,7 @@ import com.hanghae99.dog.animal.entity.Animal;
 import com.hanghae99.dog.image.dto.ImageResponseDto;
 import lombok.Builder;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;
 import java.util.List;
