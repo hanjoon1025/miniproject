@@ -1,4 +1,4 @@
-package com.hanghae99.dog.init;
+package com.hanghae99.dog.animal.repository.init;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
